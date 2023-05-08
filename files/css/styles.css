@@ -1,0 +1,33 @@
+body {
+    background-color: blanchedalmond;
+}
+p{
+    background-color: aquamarine;
+    font-size: 20px;
+    font-family: "Comic Sans MS" ;
+}
+
+.class1{
+    background-color: #FA9494;
+    font-size: 12px;
+    font-family: "Arial Black" ;
+    color: #CFD2C2;
+
+}
+
+#singup{
+    background-color: coral;
+}
+
+.btn1{
+    background-color: darkmagenta;
+    font-size: 25px;
+}
+
+.btn1:hover{
+    background-color: darksalmon;
+}
+
+.btnFont{
+    font-family: "Al Bayan";
+}
